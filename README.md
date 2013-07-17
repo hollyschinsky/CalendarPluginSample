@@ -1,7 +1,7 @@
 CalendarPluginSample
 ====================
 
-Demostrates how to use a custom calendar plugin to add a calendar event from a basic phonegap application.
+Demostrates how to use a custom calendar plugin to add a calendar event to an android device from a basic phonegap application.
 
 In this tutorial, you will learn how to write a custom plugin for Android and use it in your PhoneGap application. It will cover:
 
