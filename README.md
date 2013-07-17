@@ -10,3 +10,5 @@ In this tutorial, you will learn how to write a custom plugin for Android and us
 <li>How to implement the functionality needed for the plugin on both the JavaScript and native Java side.</li>
 <li>How to configure and test the sample application with the custom plugin.</li>
 </ul>
+
+Full tutorial here: http://devgirl.org/2013/07/17/tutorial-how-to-write-a-phonegap-plugin-for-android/
